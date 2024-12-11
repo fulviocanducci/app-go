@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com.br/app-go/internal/calculate"
+	"github.com/fulviocanducci/app-go/internal/calculate"
 )
 
 func main() {
